@@ -18,7 +18,7 @@
 | request limit				| -			| 350/h x Oauth | 	-	  | 	-	 | ND		 | 500/h x Oaut | 5/s x APP | -	      
                                                                                                                               
 
-[1] via subscription, not so easy to implement for a ton of user, it requires a callback [link](http://developers.facebook.com/docs/api/realtime/)
+[1] via subscription,  it requires a callback [link](http://developers.facebook.com/docs/api/realtime/)
 
 [2] just send request via fbml button [ref](http://stackoverflow.com/questions/4313013/facebook-friend-request-apis) not sure if it works
 
