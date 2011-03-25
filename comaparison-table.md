@@ -1,7 +1,7 @@
 
 
 
-|							| Facebook	| Twitter	    | Youtube | Flickr   | 	Linkedin | Foursquare   | Gowalla | Instagram |
+| •							| Facebook	| Twitter	    | Youtube | Flickr   | 	Linkedin | Foursquare   | Gowalla | Instagram |
 : ------------------------- | :-------: | :-----------: | :-----: | :------: | :-------: | :----------: | :-----: | :-------: |
 Read Stream / Content		| x			| x			    | x		  | x		 | x		 | 	x		    | x	      | x	      |
 Post Status / Text			| x			| x			    | 		  | 		 | x		 | 	x		    | x	      | 	      |
