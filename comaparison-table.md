@@ -1,17 +1,3 @@
-Title:				Castore Nuovo  
-Subtitle:			Subtitle  
-Author:				Niko Usai  
-xhtml header:       <style>
-						table {background:#ccc;}
-						td,th {border:0px;padding:5px;margin:0px;}
-						td {background:#eee;}
-						th {background:#888;color:#fefefe;}
-						.footnote {font-size: 0.7em; vertical-align: super; }
-						a, a:hover,a:visited {text-decoration:none;color:#ff0000;}
-                    </style>
-
-
-
 |							| Facebook	| Twitter	    | Youtube | Flickr   | 	Linkedin | Foursquare   | Gowalla | Instagram |
 : ------------------------- | :-------: | :-----------: | :-----: | :------: | :-------: | :----------: | :-----: | :-------: |
 Read Stream / Content		| x			| x			    | x		  | x		 | x		 | 	x		    | x	      | x	      |
